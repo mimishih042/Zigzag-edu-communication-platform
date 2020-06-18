@@ -8,7 +8,7 @@ Here's the demo [video](https://youtu.be/zrGWanhnyss)
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages for Zigzag chatbot.
 
 ```bash
 pip install nltk
